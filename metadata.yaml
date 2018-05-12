@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32264
     wikipedia: http://en.wikipedia.org/wiki/John_Collins_Warren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26836#Cases-of-Organic-Diseases-of-the-Heart
 gutenberg_issued: '2008-10-07'
 gutenberg_type: Text
 identifiers:
